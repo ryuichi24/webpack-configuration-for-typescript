@@ -1,0 +1,27 @@
+# Dependency directories
+node_modules
+
+# generate output
+dist
+
+# dotenv environment variables file
+.env
+.env.test
+
+# Diagnostic reports
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# mac
+.DS_Store
+
+# vscode
+.vscode
+.vscode-test
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
