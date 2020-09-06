@@ -14,6 +14,11 @@ const init = async () => {
 
     console.log(successMsg);
     console.log('Users: ', users);
+
+    // do something with users data
+    //
+    //
+    //
   } catch (err) {
     console.log(err.message);
   }
