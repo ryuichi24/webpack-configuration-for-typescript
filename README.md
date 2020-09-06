@@ -1,7 +1,7 @@
 # Webpack configuration for TypeScript (client side)
 
 This repository is a very simple example for a TypeScript project with webpack.\
-The compiled TypeScript codes are supposed to be executed in client side,\
+The compiled TypeScript codes are supposed to be executed in client side,
 so all of the codes are compiled into one JavaScript file as a bundle.
 
 ## Create Config Files
