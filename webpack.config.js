@@ -3,7 +3,7 @@ const webpack = require('webpack');
 const dotenv = require('dotenv').config({ path: path.resolve('.env') });
 
 module.exports = {
-  entry: `${__dirname}/src/index.ts`,
+  entry: path.resolve('src/index.ts'),
   module: {
     rules: [
       {
